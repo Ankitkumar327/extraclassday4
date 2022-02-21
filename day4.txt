@@ -1,0 +1,25 @@
+1. Display Properties?
+-> There are four Display Properties in CSS:
+    Block, Inline, Inline-Block, Flex, None
+Display Properties are the things which can we respresent our elements in the screen.
+
+2. Display-Block?
+-> It will take the width and height specified to them. It is automatic because Div is a block level element. It will try to keep elements in new line
+
+3. Display-Inline?
+->It will take the space how much is required of the content and we cannot set manual height and width, even if we set it will not be applied.
+
+4. Display-Inline-Block?
+-> It is a combination of inline and block property.
+
+5. Display-none?
+-> It will make the content vanished and it will not contain height and width specified to the box.
+
+6. Display-flex?
+->By default it will dispay in row. 
+
+Justify Content works on main axis.
+Align-items works in cross-axis
+main-axis is X axis and cross-axis is Y axis.
+
+Align-item Vs Align-content?
